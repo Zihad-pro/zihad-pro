@@ -1,7 +1,7 @@
 ### Hi there, I'm Zubaed Hasan 👋  
 #### MERN Stack Developer  
 
-<img src="https://i.ibb.co.com/pr1QQqsx/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="GitHub Banner" width="100%">
+<img src="https://i.ibb.co.com/pr1QQqsx/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="GitHub Banner" height="1000" width="100%">
 
 ---
 
