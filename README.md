@@ -1,2 +1,2 @@
 ### Hi there , i'm Zubaed hasan MERN stack Developer 👋
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://i.ibb.co.com/pj407jBW/html-css-collage-concept-with-hacker.jpg">
