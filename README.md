@@ -56,5 +56,6 @@
 
 
 ---
-![Quote](https://img.shields.io/badge/Quote-💡-brightgreen?style=for-the-badge)
+💡 **"I never lose; I either win or learn."**
+
  
