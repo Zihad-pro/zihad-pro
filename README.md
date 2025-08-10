@@ -56,4 +56,5 @@
 
 
 ---
-⭐️ _"Code is like humor. When you have to explain it, it’s bad."_  
+![Quote](https://img.shields.io/badge/Quote-💡-brightgreen?style=for-the-badge)
+ 
