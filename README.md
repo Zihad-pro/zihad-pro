@@ -50,19 +50,21 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-### Connect with Me:
+### Connect with me:
 
-[![LinkedIn light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
-[![LinkedIn dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Twitter light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg)](https://x.com/zubaedhasan46)
-[![Twitter dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg#gh-dark-mode-only)](https://x.com/zubaedhasan46)
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Facebook light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg)](https://www.facebook.com/Mohmmadzihad.75866)
-[![Facebook dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg#gh-dark-mode-only)](https://www.facebook.com/Mohmmadzihad.75866)
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Instagram light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://www.instagram.com/zihad4375/)
-[![Instagram dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-dark-mode-only)](https://www.instagram.com/zihad4375/)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only
 
 
 
