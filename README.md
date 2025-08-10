@@ -50,21 +50,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-### Connect with me:
+🔗 **Connect with Me:**  
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only
+[![LinkedIn](https://img.shields.io/badge/0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316) [![Twitter](https://img.shields.io/badge/1DA1F2?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/zubaedhasan46) [![Facebook](https://img.shields.io/badge/1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=)](https://www.facebook.com/Mohmmadzihad.75866) [![Instagram](https://img.shields.io/badge/E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://www.instagram.com/zihad4375/)
+
 
 
 
