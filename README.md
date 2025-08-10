@@ -52,7 +52,8 @@
 
 🔗 **Connect with Me:**  
 
-[![LinkedIn](https://img.shields.io/badge/0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316) [![Twitter](https://img.shields.io/badge/1DA1F2?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/zubaedhasan46) [![Facebook](https://img.shields.io/badge/1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=)](https://www.facebook.com/Mohmmadzihad.75866) [![Instagram](https://img.shields.io/badge/E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://www.instagram.com/zihad4375/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/zubaedhasan46) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=)](https://www.facebook.com/Mohmmadzihad.75866) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://www.instagram.com/zihad4375/)
+
 
 
 
