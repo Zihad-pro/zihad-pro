@@ -50,8 +50,20 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-🔗 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/zubaedhasan46) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=)](https://www.facebook.com/Mohmmadzihad.75866) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://www.instagram.com/zihad4375/)
+### Connect with Me:
+
+[![LinkedIn light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
+[![LinkedIn dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
+&nbsp;&nbsp;
+[![Twitter light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg)](https://x.com/zubaedhasan46)
+[![Twitter dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg#gh-dark-mode-only)](https://x.com/zubaedhasan46)
+&nbsp;&nbsp;
+[![Facebook light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg)](https://www.facebook.com/Mohmmadzihad.75866)
+[![Facebook dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg#gh-dark-mode-only)](https://www.facebook.com/Mohmmadzihad.75866)
+&nbsp;&nbsp;
+[![Instagram light](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://www.instagram.com/zihad4375/)
+[![Instagram dark](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg#gh-dark-mode-only)](https://www.instagram.com/zihad4375/)
+
 
 
 
