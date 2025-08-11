@@ -50,7 +50,7 @@
 
 
 
-<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="200px" height="200">
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="600px" height="400">
 
 
 
