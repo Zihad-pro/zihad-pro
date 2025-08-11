@@ -1,7 +1,9 @@
-### Hi there, I'm Zubaed Hasan ![(https://github.com/Zihad-pro/zihad-pro/blob/main/hi.gif]
-#### MERN Stack Developer  
+### Hi there, I'm Zubaed Hasan! <img src="https://github.com/Zihad-pro/zihad-pro/blob/main/hi.gif" width="30">
 
-<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="GitHub Banner" height="5000" width="100%">
+#### 💻 MERN Stack Developer  
+
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="GitHub Banner" width="100%">
+
 
 ---
 
