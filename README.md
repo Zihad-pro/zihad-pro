@@ -1,4 +1,9 @@
 ### Hi there, I'm Zubaed Hasan 👋  
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=38B2AC&vCenter=true&width=600&height=70&lines=👋+Hello%2C+I'm+Zubaed+Hasan;💻+MERN+Stack+Developer;🚀+Full-Stack+Engineer;🎨+UI%2FUX+Enthusiast;🤝+Let's+Connect!" alt="Typing Animation" />
+  </a>
+</h1>
 #### MERN Stack Developer  
 
 <img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="GitHub Banner" height="5000" width="100%">
@@ -54,15 +59,7 @@
 
 
 
-📈 GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Zihad-pro&show_icons=true&theme=radical&count_private=true
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad-pro&layout=compact&theme=radical&langs_count=6
-
-https://streak-stats.demolab.com/?user=Zihad-pro&theme=radical
-
-</div>
 
 
 
