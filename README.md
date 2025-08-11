@@ -54,7 +54,15 @@
 
 
 
+📈 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Zihad-pro&show_icons=true&theme=radical&count_private=true
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad-pro&layout=compact&theme=radical&langs_count=6
+
+https://streak-stats.demolab.com/?user=Zihad-pro&theme=radical
+
+</div>
 
 
 
