@@ -48,7 +48,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-## 🔗 Connect with Me https://cdnl.iconscout.com/lottie/premium/preview-watermark/call-me-8742984-7064932.mp4
+##  Connect with Me
+<img src="https://iconscout.com/lottie-animation/call-me-8742984_7064932f" width="50" alt="Call Me animation">
+
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/zubaedhasan46)
