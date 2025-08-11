@@ -12,7 +12,15 @@
 - 🎯 Focused on creating clean, efficient, and user-friendly web experiences.  
 - 📚 Always learning and exploring new technologies.
 
----
+
+
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="1000px" height="500">
+
+
+
+
+
+
 
 
 🛠 **Tech Stack**  
@@ -50,7 +58,6 @@
 
 
 
-<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="1000px" height="500">
 
 
 
