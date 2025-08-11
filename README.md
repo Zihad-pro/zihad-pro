@@ -6,8 +6,11 @@
 
 
 ---
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  About Me
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng0bWE4M2R3bnBhbXlvNTJkb3V5bHljZjVpM252NHllZWE4cTdjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="40" height="40" alt="About Me Gif" />
+</h2>
 
-<h2> About Me  <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng0bWE4M2R3bnBhbXlvNTJkb3V5bHljZjVpM252NHllZWE4cTdjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="40px" height="40px"></h2> 
 - 🚀 Passionate about building full-stack web applications using **MongoDB, Express, React, and Node.js**.  
 - 🎯 Focused on creating clean, efficient, and user-friendly web experiences.  
 - 📚 Always learning and exploring new technologies.  
