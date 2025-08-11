@@ -7,7 +7,7 @@
 
 ---
 
-💻<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 - 🚀 Passionate about building full-stack web applications using **MongoDB, Express, React, and Node.js**.  
 - 🎯 Focused on creating clean, efficient, and user-friendly web experiences.  
 - 📚 Always learning and exploring new technologies.  
@@ -48,7 +48,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me https://cdnl.iconscout.com/lottie/premium/preview-watermark/call-me-8742984-7064932.mp4
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/zubaedhasan46)
