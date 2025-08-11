@@ -1,4 +1,4 @@
-Hi <img src="https://github.com/Zihad-pro/zihad-pro/blob/main/hi.gif" width="20"> there, I'm Zubaed Hasan!
+###  Hi <img src="https://github.com/Zihad-pro/zihad-pro/blob/main/hi.gif" width="20"> there, I'm Zubaed Hasan!
 
 #### 💻 MERN Stack Developer  
 
