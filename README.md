@@ -50,6 +50,14 @@
 
 
 
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="100%">
+
+
+
+
+
+
+
 ## 🔗 Connect with Me <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZlenI3ZDV3ZjcwdHF5Z2tmbGMyNGd3eWp2cGhyOXJhNDY1ZDMyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/StcrDoMb4eSXn80J0J/giphy.gif" width="35" height="35" alt="Connect Gif">
 
 
