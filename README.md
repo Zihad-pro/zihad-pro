@@ -67,7 +67,7 @@
 
 
 
-## 🔗 Connect with Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtnbzl0aDF6MHZkaW15bmtwMGZmeXh1OXg3dW9zbGNwMWR4eXhiayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gbGf8mmc7L80bpwQcd/giphy.gif" width="50" height="50" height="35" alt="Connect Gif">
+## 🔗 Connect with Me <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1oMTFmZGpsNGhzYnZlN2VibHZnaTg1dzMxaHFnYjh3M2N3N3ZnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nklxh43IbW6DI5exDl/giphy.gif" width="50" height="50" height="35" alt="Connect Gif">
 
 
 
