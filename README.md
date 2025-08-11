@@ -2,7 +2,7 @@
 
 #### 💻 MERN Stack Developer
 
-<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="GitHub Banner" height="800"  width="1000">
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="GitHub Banner" height="1200"  width="1500">
 
 ---
 
