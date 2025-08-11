@@ -1,4 +1,4 @@
-### Hi  there, I'm **Zubaed Hasan!** <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndhbW1yeTI0dWtibjZnZmQ3enRhY2hodmVuNWRrcTJlZWlscTdicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hVm2JYyoGy7MGqX4H8/giphy.gif" width="20" alt="Hi">
+### Hi  there, I'm **Zubaed Hasan!** <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndhbW1yeTI0dWtibjZnZmQ3enRhY2hodmVuNWRrcTJlZWlscTdicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hVm2JYyoGy7MGqX4H8/giphy.gif" width="60" alt="Hi">
 
 #### 💻 MERN Stack Developer
 
