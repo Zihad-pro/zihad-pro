@@ -50,11 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/zubaedhasan46) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=)](https://www.facebook.com/Mohmmadzihad.75866) 
 
-## 📊 GitHub অবদান পরিসংখ্যান
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=bn)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&locale=bn)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&locale=bn)
 
 
 
