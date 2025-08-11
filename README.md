@@ -14,7 +14,7 @@
 
 
 
-<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="1000px" height="400">
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="9000px" height="400">
 
 
 
