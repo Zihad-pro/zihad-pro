@@ -48,7 +48,7 @@
 
 🔗 **Connect with Me:**  
 
-[![https://img.icons8.com/?size=48&id=13930&format=png](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/zubaedhasan46) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=)](https://www.facebook.com/Mohmmadzihad.75866) 
+[![https://img.icons8.com/?size=100&id=13930&format=png&color=000000](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&label=)](https://x.com/zubaedhasan46) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=)](https://www.facebook.com/Mohmmadzihad.75866) 
 
 
 
