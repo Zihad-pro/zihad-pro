@@ -5,7 +5,7 @@
 <img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="GitHub Banner" width="100%">
 
 
----<h2 style="text-align: center; display: inline-flex; align-items: center; gap: 8px; margin-top: 10px; justify-content: center; width: 100%;">
+---<h2 style="text-align: center; display: inline-flex; align-items: center; gap: 8px; margin-top: 30px; justify-content: center; width: 100%;">
   About Me
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng0bWE4M2R3bnBhbXlvNTJkb3V5bHljZjVpM252NHllZWE4cTdjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="40" height="40" alt="About Me Gif" />
 </h2>
