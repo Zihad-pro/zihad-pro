@@ -74,7 +74,7 @@
 
 
 
-<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="850px" height="400">
+
 
 
 
@@ -84,5 +84,10 @@
 
 ---
 💡 **"I never lose; I either win or learn."**
+
+
+
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Use%20languages.jpg" alt="GitHub Banner" width="850px" height="400">
+
 
  
