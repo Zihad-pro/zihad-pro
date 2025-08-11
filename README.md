@@ -16,7 +16,7 @@
 
 
 
-<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Screenshot%202025-08-11%20230047.png" alt="GitHub Banner" width="40%" >
+<img src="https://github.com/Zihad-pro/zihad-pro/blob/main/Screenshot%202025-08-11%20230047.png" alt="GitHub Banner" width="50%" >
 
 
 
