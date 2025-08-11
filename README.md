@@ -47,9 +47,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ## 🔗 Connect with Me
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/zubaedhasan46)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/Mohmmadzihad.75866)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
+
 
 
 
