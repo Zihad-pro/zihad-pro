@@ -48,7 +48,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-##  Connect with Me :<a href="https://www.vecteezy.com/video/67578959-red-phone-call-icon-dancing-animation-on-isolated-white-background">red-phone-call-icon-dancing-animation-on-isolated-white-background Stock Videos by Vecteezy</a>
+## 🔗 Connect with Me  
+[📞 Red Phone Call Animation](https://www.vecteezy.com/video/67578959-red-phone-call-icon-dancing-animation-on-isolated-white-background) – Stock Videos by Vecteezy
+
 
 
 
