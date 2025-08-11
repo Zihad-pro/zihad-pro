@@ -49,9 +49,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ## 🔗 Connect with Me  
-<img src="https://lottiefiles.com/free-animation/incoming-call-AUKcEHpyvY" alt="fa">
-
-
 
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mohammad-zubaed-hasan-157579316)
