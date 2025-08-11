@@ -49,7 +49,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ## 🔗 Connect with Me  
-[📞 Red Phone Call Animation](https://www.vecteezy.com/video/67578959-red-phone-call-icon-dancing-animation-on-isolated-white-background) – Stock Videos by Vecteezy
+<img src="https://lottiefiles.com/free-animation/incoming-call-AUKcEHpyvY" alt="fa">
 
 
 
